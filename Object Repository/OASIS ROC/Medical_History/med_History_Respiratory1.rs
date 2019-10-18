@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>med_History_Respiratory1</name>
+   <tag></tag>
+   <elementGuidId>4a023a7d-3da3-4928-9ba0-70ce4bb8ba2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicalForm&quot;]/div/fieldset/table/tbody/tr[36]/td/table/tbody/tr/td/div[1]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicalForm&quot;]/div/fieldset/table/tbody/tr[36]/td/table/tbody/tr/td/div[1]/label/input</value>
+   </webElementProperties>
+</WebElementEntity>
