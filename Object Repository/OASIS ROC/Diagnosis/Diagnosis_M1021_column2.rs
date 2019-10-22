@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Diagnosis_M1023B</name>
+   <name>Diagnosis_M1021_column2</name>
    <tag></tag>
-   <elementGuidId>f515185b-7601-4614-8f17-9a2a21a4def1</elementGuidId>
+   <elementGuidId>40140fed-b3f0-4c5f-b8b1-faaebcd27f18</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#diagnosisForm > div > fieldset > table > tbody > tr:nth-child(9) > td > table > tbody > tr:nth-child(9) > td:nth-child(1) > icd-opt > div > div.fg-line > input</value>
+         <value>#tooltip_M1021_PRIMARY_DIAG_ICD > div > icd-opt > div > div.fg-line > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#diagnosisForm > div > fieldset > table > tbody > tr:nth-child(9) > td > table > tbody > tr:nth-child(9) > td:nth-child(1) > icd-opt > div > div.fg-line > input</value>
+      <value>#tooltip_M1021_PRIMARY_DIAG_ICD > div > icd-opt > div > div.fg-line > input</value>
    </webElementProperties>
 </WebElementEntity>

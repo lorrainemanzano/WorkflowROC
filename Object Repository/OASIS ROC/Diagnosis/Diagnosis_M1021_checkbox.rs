@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#M1021_PRIMARY_DIAG_SEVERITY > label:nth-child(2) > input</value>
+         <value>#M1021_PRIMARY_DIAG_SEVERITY > label:nth-child(4) > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#M1021_PRIMARY_DIAG_SEVERITY > label:nth-child(2) > input</value>
+      <value>#M1021_PRIMARY_DIAG_SEVERITY > label:nth-child(4) > input</value>
    </webElementProperties>
 </WebElementEntity>
