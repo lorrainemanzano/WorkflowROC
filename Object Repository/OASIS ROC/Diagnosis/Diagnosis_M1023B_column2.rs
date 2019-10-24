@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#tooltip_M1021_PRIMARY_DIAG_ICD > div > icd-opt > div > div.fg-line > input</value>
+         <value>#tooltip_M1023_OTH_DIAG1_ICD > icd-opt > div > div.fg-line > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#tooltip_M1021_PRIMARY_DIAG_ICD > div > icd-opt > div > div.fg-line > input</value>
+      <value>#tooltip_M1023_OTH_DIAG1_ICD > icd-opt > div > div.fg-line > input</value>
    </webElementProperties>
 </WebElementEntity>

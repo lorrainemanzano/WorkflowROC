@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>med_History_HospiReason1</name>
+   <name>med_History_HS_AllergiesNKA</name>
    <tag></tag>
-   <elementGuidId>73740bf7-d915-4e79-83f6-c42b193b5208</elementGuidId>
+   <elementGuidId>bec62feb-cd34-4df1-ba51-c38489c654d9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#medicalForm > fieldset > table > tbody > tr:nth-child(27) > td > table > tbody > tr > td > div:nth-child(2) > div.col-xs-4.m-r-10.p-0 > div > input</value>
+         <value>#tooltip_wr15 > div.lopt-left > div > label > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#medicalForm > fieldset > table > tbody > tr:nth-child(27) > td > table > tbody > tr > td > div:nth-child(2) > div.col-xs-4.m-r-10.p-0 > div > input</value>
+      <value>#tooltip_wr15 > div.lopt-left > div > label > input</value>
    </webElementProperties>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#M1023_OTH_DIAG1_SEVERITY > label.radio.radio-inline.m-r-5.checked > input</value>
+         <value>#M1023_OTH_DIAG1_SEVERITY > label:nth-child(4) > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#M1023_OTH_DIAG1_SEVERITY > label.radio.radio-inline.m-r-5.checked > input</value>
+      <value>#M1023_OTH_DIAG1_SEVERITY > label:nth-child(4) > input</value>
    </webElementProperties>
 </WebElementEntity>

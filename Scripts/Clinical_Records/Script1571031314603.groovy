@@ -19,71 +19,71 @@ WebUI.navigateToUrl('https://qa.medisource.com/patientcare/9B1E9547-DAF3-40F4-82
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('OASIS ROC/visit_date'))
+WebUI.click(findTestObject('OASIS ROC/visit_date'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('OASIS ROC/visit_date'), '10/14/2019')
+WebUI.setText(findTestObject('OASIS ROC/visit_date'), '10/14/2019', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS ROC/time_in'))
+WebUI.click(findTestObject('OASIS ROC/time_in'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('OASIS ROC/time_in'), '0100')
+WebUI.setText(findTestObject('OASIS ROC/time_in'), '0100', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OASIS ROC/time_out'))
+WebUI.click(findTestObject('OASIS ROC/time_out'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('OASIS ROC/time_out'), '0200')
+WebUI.setText(findTestObject('OASIS ROC/time_out'), '0200', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0014'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0014'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0014_AK'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0014_AK'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0080-2'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0080-2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0090'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0090'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('OASIS ROC/Clinical_Records/M0090'), '10/14/2019')
+WebUI.setText(findTestObject('OASIS ROC/Clinical_Records/M0090'), '10/14/2019', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0102-na'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0102-na'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0104'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0104'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('OASIS ROC/Clinical_Records/M0104'), '10/14/2019')
+WebUI.setText(findTestObject('OASIS ROC/Clinical_Records/M0104'), '10/14/2019', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0110-1'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0110-1'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0140-1'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0140-1'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0150-2'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M0150-2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M1000-1'))
+WebUI.click(findTestObject('OASIS ROC/Clinical_Records/M1000-1'), FailureHandling.CONTINUE_ON_FAILURE)
 
